@@ -1,8 +1,8 @@
-![logo](https://github.com/29deepak/29deepak/blob/main/deepak%20banner.gif)
+![logo](https://github.com/29deepak/29deepak/blob/main/deepak%20gif.gif)
 <h1 align="center">Hi 👋, I'm DEEPAK KUMAR</h1>
 <h3 align="center">FRESHER(2022)</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/29deepak/29deepak/blob/main/deepak%20gif.gif">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepak&label=Profile%20views&color=0e75b6&style=flat" alt="29deepak" /> </p>
 
