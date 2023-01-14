@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepak&label=Profile%20views&color=0e75b6&style=flat" alt="29deepak" /> </p>
 
-- 🌱 I’m currently learning **NODE JS,REACT JS**
+- 🌱 I’m currently learning **REACT JS**
 
 - 📫 How to reach me **deepak545608@gmail.com**
 
