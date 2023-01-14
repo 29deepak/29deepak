@@ -1,4 +1,4 @@
-![logo]<p aligm="center">(https://github.com/29deepak/29deepak/blob/main/deepak%20gif.gif)
+![logo](https://github.com/29deepak/29deepak/blob/main/deepak%20gif.gif)
 <h1 align="center">Hi 👋, I'm DEEPAK KUMAR</h1>
 <h3 align="center">FRESHER(2022)</h3>
 
