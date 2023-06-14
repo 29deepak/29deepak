@@ -7,7 +7,7 @@
 
 - 🔭 I’m worked on [EXPENSE TRACKER](https://github.com/29deepak/expensetracking-backend)
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **SLACK**
 
 - 👯 I’m worked on [GROUP CHAT APPLICATION](https://github.com/29deepak/group-chat-one-to-one-chat)
 
